@@ -6,4 +6,5 @@
 
 ## References
 
++ https://www.kaggle.com/code/karan842/pneumonia-detection-transfer-learning-95-acc
 + https://towardsdatascience.com/fastai-bag-of-tricks-experiments-with-a-kaggle-dataset-part-1-135e46da72f2
