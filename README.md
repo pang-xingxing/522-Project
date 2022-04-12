@@ -11,4 +11,5 @@
 ## References
 
 + https://www.kaggle.com/code/karan842/pneumonia-detection-transfer-learning-95-acc
++ https://www.kaggle.com/code/ojimenez19/chest-x-ray-knn/notebook
 + https://towardsdatascience.com/fastai-bag-of-tricks-experiments-with-a-kaggle-dataset-part-1-135e46da72f2
