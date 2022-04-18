@@ -7,6 +7,7 @@
 ## Code
 
 + https://www.kaggle.com/changqixiao/pneumonia-detection-transfer-learning
++ https://colab.research.google.com/drive/1l3rSDqG-3t6RnjJZSG4XUgMEGcAStJeZ?usp=sharing
 
 ## Experiments
 
