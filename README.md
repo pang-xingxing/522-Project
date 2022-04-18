@@ -8,6 +8,10 @@
 
 + https://www.kaggle.com/changqixiao/pneumonia-detection-transfer-learning
 
+## Experiments
+
++ https://www.kaggle.com/changqixiao/pneumonia-detection-transfer-learning
+
 ## References
 
 + https://www.kaggle.com/code/karan842/pneumonia-detection-transfer-learning-95-acc
