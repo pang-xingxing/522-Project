@@ -12,6 +12,7 @@
 ## Experiments
 
 + https://www.kaggle.com/changqixiao/pneumonia-detection-transfer-learning
++ https://docs.google.com/document/d/1tiPW7zyVq3em81ZANRZVXgrabhltbG7KvNcJ6thuR4c
 + https://docs.google.com/document/d/1eZQwlcl4DuwhpZxYxIc07qoFHG9CeJSued8UtDLuCT0/edit?usp=sharing
 
 ## References
